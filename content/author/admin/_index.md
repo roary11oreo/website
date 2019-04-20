@@ -82,4 +82,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Kylie Anglin is a good little bear. She likes to do little bear things.
+Kylie Anglin is a third-year PhD student in education policy at the University of Virginia.
