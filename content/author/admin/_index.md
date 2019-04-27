@@ -26,7 +26,7 @@ interests = [
   "Education Regulation",
   "Causal Inference",
   "Effect Heterogeneity and Implementation",
-  "Natural Language Processing
+  "Natural Language Processing"
 ]
 
 # Organizational groups that you belong to (for People widget)
