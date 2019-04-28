@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Kylie Anglin"
+name = "Kylie L. Anglin"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -43,7 +43,7 @@ interests = [
   course = "Masters in Public Policy"
   institution = "University of Virginia"
   year = 2018
-  
+
 [[education.courses]]
   course = "Post-Baccalearate in Mathematics"
   institution = "Northwestern University"
