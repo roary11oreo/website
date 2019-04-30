@@ -1,0 +1,7 @@
+---
+ports:
+- port: 1313
+  onOpen: open-browser
+tasks:
+- before: /workspace/website/.gitpod/get-hugo.sh
+  command: /workspace/website/.gitpod/start-hugo.sh
