@@ -1,6 +1,7 @@
 #!/bin/bash -e
-
-cd /workspace/rc-website
+cd /workspace/website
+git submodule update --init --recursive
+cd /workspace/website/config/_default
 /workspace/hugo server -b https://1313-${GITPOD_WORKSPACE_URL#https://} --appendPort=false $@
 cat <<EOF
 "$ ./.gitpod/start-hugo.sh" to re-start hugo
