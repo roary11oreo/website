@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Kylie Anglin"
+name = "Kylie L. Anglin"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -87,12 +87,12 @@ interests = [
 #   link = "files/cv.pdf"
 
 +++
-Kylie Anglin is an is an Institute of Education Sciences pre-doctoral fellow in the Education Policy program at
-the University of Virginia. She has a B.A. in Political Science from Southwestern University, a post-baccalaureate degree in
+Kylie Anglin is an Institute of Education Sciences pre-doctoral fellow in the Education Policy program at
+the University of Virginia. She has a B.A. in Political Science from Southwestern University, a post-baccalaureate  in
 mathematics from Northwestern University, and a Masters in Public Policy from the Batten School of Public Policy at the
-University of virginia. Before beginning her doctoral studies, Kylie worked a classroom teacher in Arkansas and as an evaluator of an after-school
- program in Evanston, Illinois.
+University of virginia. Before beginning her doctoral studies, Kylie worked as a classroom teacher in Arkansas and
+as an evaluator of an after-school program in Evanston, Illinois.
 
- Her primary research interests involve understanding the impact of state regulation on student outcomes.
- She is also passionate about evaluating and improving the methodologies we use to determine the efficacy of educational policies and initiatives.
+Her primary research interests involve understanding the impact of state regulation on student outcomes.
+She is also passionate about causal inference and about evaluating and improving quasi-experimental designs.
 

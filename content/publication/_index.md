@@ -1,5 +1,5 @@
 +++
-title = "Publications"
+title = "Publications and Working Papers"
 
 # View.
 #   1 = List
