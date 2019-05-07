@@ -87,5 +87,12 @@ interests = [
 #   link = "files/cv.pdf"
 
 +++
+Kylie Anglin is an is an Institute of Education Sciences pre-doctoral fellow in the Education Policy program at
+the University of Virginia. She has a B.A. in Political Science from Southwestern University, a post-baccalaureate degree in
+mathematics from Northwestern University, and a Masters in Public Policy from the Batten School of Public Policy at the
+University of virginia. Before beginning her doctoral studies, Kylie worked a classroom teacher in Arkansas and as an evaluator of an after-school
+ program in Evanston, Illinois.
 
-Kylie Anglin is a third-year PhD student in education policy at the University of Virginia.
+ Her primary research interests involve understanding the impact of state regulation on student outcomes.
+ She is also passionate about evaluating and improving the methodologies we use to determine the efficacy of educational policies and initiatives.
+
