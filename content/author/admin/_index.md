@@ -87,8 +87,9 @@ interests = [
 #   link = "files/cv.pdf"
 
 +++
-Kylie Anglin is an Institute of Education Sciences pre-doctoral fellow in the Education Policy program at the University of Virginia. She has a B.A. in Political Science from Southwestern University, a post-baccalaureate  in mathematics from Northwestern University, and a Masters in Public Policy from the University of Virginia. Before beginning her doctoral studies, Kylie worked as a classroom teacher in Arkansas and as an evaluator of an after-school program in Evanston, Illinois.
+Kylie L. Anglin is a Ph.D. student in Education Policy at the University of Virginia. Her research focuses on developing and using data science approaches to examine variations in policy and intervention implementation, as well as the impact of intervention heterogeneity on student outcomes. In an article published in the Journal of Research on Educational Effectiveness, she proposed a framework for using web scraping and natural language processing techniques to collect data on district responses to state policies from online policy documents. In that article, Kylie illustrates this framework in the context of statewide education deregulation under the Texas District of Innovation statute. In her dissertation, she builds on her descriptive work surrounding the District of Innovation statute to evaluate the impact of the policy, and heterogeneous district responses, on student outcomes. 
 
-Her primary research interest is in understanding the role of state regulation in improving public education.
-She is also passionate about causal inference and improving quasi-experimental designs.
+Kylie is also developing methods for using natural language processing techniques to assess treatment fidelity and replicability in intervention evaluations that take place in educational settings. She has published on methods related to causal inference, replication, and open science in Evaluation Review, Oxford Bibliography in Education, and Zeitschrift für Psychologie, and she is a regular presenter at APPAM, AEFP, and SREE. 
+
+Prior to coming to University of Virginia, Kylie earned a B.A. in Political Science from Southwestern University, a Post-Baccalaureate in Mathematics from Northwestern University, and a Masters in Public Policy from the University of Virginia. Kylie has worked as a 7th grade English teacher and as an evaluator for an after-school program.
 
